@@ -21,40 +21,7 @@ A minimalist, monochrome CV website built with HTML, CSS, and JavaScript. Deploy
 
 ## Getting Started
 
-### Local Development
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/xingyuwang/xingyuw-cv.git
-   cd xingyuw-cv
-   ```
-
-2. Open `index.html` in your browser:
-   ```bash
-   open index.html
-   ```
-
-### Deployment to GitHub Pages
-
-1. Create a new repository on GitHub (e.g., `xingyuw-cv`)
-
-2. Push your code:
-   ```bash
-   git init
-   git add .
-   git commit -m "Initial commit"
-   git branch -M main
-   git remote add origin https://github.com/xingyuwang/xingyuw-cv.git
-   git push -u origin main
-   ```
-
-3. Enable GitHub Pages:
-   - Go to Repository Settings → Pages
-   - Select source: Deploy from a branch
-   - Branch: main, Folder: / (root)
-   - Click Save
-
-4. Your site will be live at: `https://xingyuwang.github.io/xingyuw-cv/`
+Site will be live at: `https://rain14-king.github.io/xingyuw-cv/`
 
 ## Customization
 
